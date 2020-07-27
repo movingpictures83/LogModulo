@@ -1,0 +1,3 @@
+otufile	plugins/LogModulo/example/asv_abund.transpose.csv
+mapping	plugins/LogModulo/example/asv_map.csv
+tree	plugins/LogModulo/example/asv_tax.csv
